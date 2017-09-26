@@ -18,15 +18,14 @@ SLACK_TOKENS = ('<insert your Slack token>', '<additional Slack token>')
 IMAGE_LOCATION = '<insert your image path> (e.g. http://www.my-site.com/images/)'
 COMPOSITE_IMAGE = IMAGE_LOCATION + 'composite.png'
 VALID_VOTES = {
-    0 : IMAGE_LOCATION + '0.png',
     1 : IMAGE_LOCATION + '1.png',
     2 : IMAGE_LOCATION + '2.png',
     3 : IMAGE_LOCATION + '3.png',
     5 : IMAGE_LOCATION + '5.png',
     8 : IMAGE_LOCATION + '8.png',
     13 : IMAGE_LOCATION + '13.png',
-    20 : IMAGE_LOCATION + '20.png',
-    40 : IMAGE_LOCATION + '40.png',
+    21 : IMAGE_LOCATION + '21.png',
+    34 : IMAGE_LOCATION + '34.png',
     100 : IMAGE_LOCATION + '100.png'
 }
 # End Configuration
